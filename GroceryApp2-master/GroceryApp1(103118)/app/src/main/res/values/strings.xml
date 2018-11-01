@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GroceryApp1</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Groceries</string>
+    <string name="empty_view_title_text">Your cart is pretty empty...</string>
+    <string name="empty_view_subtitle_text">Let"'s" get shopping!!</string>
+    <string name="editor_activity_title_new_grocery">Add a grocery item</string>
+    <string name="editor_activity_title_edit_grocery">Edit a grocery item</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="editor_insert_grocery_successful">Grocery saved</string>
+    <string name="editor_insert_grocery_failed">Error with saving grocery </string>
+    <string name="editor_update_grocery_successful">Grocery updated</string>
+    <string name="editor_update_grocery_failed">Error with updating grocery</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="required_fields_toast">Please fill all the required fields</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_grocery_successful">Grocery deleted</string>
+    <string name="editor_delete_grocery_failed">Error with deleting grocery</string>
+    <string name="delete_dialog_msg">Delete this grocery?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="category_overview">Overview</string>
+    <string name="category_grocery_name">Grocery name</string>
+    <string name="category_grocery_price">Grocery price</string>
+    <string name="category_grocery_supplier_name">Grocery supplier name</string>
+    <string name="grocery_quantity">grocery_quantity</string>
+    <string name="phonenumber">phoneNumber</string>
+</resources>
