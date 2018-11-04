@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txtViewPad">16dp</dimen>
+    <dimen name="main_lin_lay_dim">16dp</dimen>
+</resources>
